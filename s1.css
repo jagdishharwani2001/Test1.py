@@ -1,0 +1,8 @@
+*{
+ background-image: linear-gradient(to bottom, blue,coral);
+ background-repeat: no-repeat;
+ background-position: center;
+}
+h1{
+    color: aqua;
+}
